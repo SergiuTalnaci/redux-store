@@ -3,11 +3,7 @@
 
 ---
 
-<a href="https://ultimateangular.com" target="_blank"><img src="https://ultimateangular.com/assets/img/banners/ua-github.svg"></a>
-
----
-
-> This repo serves as the seed project for the Ultimate Angular NGRX Store + Effects course, as well as stepped solutions in separate branches, come and [learn NGRX](https://ultimateangular.com/ngrx-store-effects) with us!
+My own redux store inspired from Ultimate Angular
 
 ## Prerequisites
 
