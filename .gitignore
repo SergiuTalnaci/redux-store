@@ -6,3 +6,8 @@ node_modules
 .DS_Store
 .idea
 npm-debug.log
+.vs/Redux-Store/v15/.suo
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
